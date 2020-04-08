@@ -80,7 +80,7 @@ h1 {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 14px 315px 0px 30px;
+    padding: 12px 315px 0px 30px;
 }
 .option {
     height: 44px;
